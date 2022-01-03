@@ -1,3 +1,8 @@
+Cordel Moderno
+Por Olavo Bilac
+[SITE: https://contobrasileiro.com.br/via-lactea-poesia-de-olavo-bilac/]
+
+
 Ora (direis) ouvir estrelas! 
 Certo perdeste o senso!” 
 E eu vos direi, no entanto,
@@ -6,6 +11,8 @@ Muita vez desperto
 E abro as janelas, 
 Pálido de espanto…
 
+//---
+
 E conversamos toda a noite, 
 Enquanto a Via Láctea, 
 Como um pálio aberto, Cintila. 
@@ -13,10 +20,14 @@ E, ao vir do sol,
 saudoso e em pranto,
 Inda as procuro pelo céu deserto.
 
+//---
+
 Direis agora: “Tresloucado amigo!
 Que conversas com elas? 
 Que sentido tem o que dizem, 
 Quando estão contigo?”
+
+//---
 
 E eu vos direi: 
 “Amai para entendê-las!
